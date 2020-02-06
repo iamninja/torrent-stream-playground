@@ -1,0 +1,1 @@
+flags = -lpthread -lstdc++ -ltorrent-rasterbar -lboost_filesystem
